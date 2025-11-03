@@ -1,0 +1,12 @@
+
+Dataset Title: Outbreaks in Toronto Healthcare Institutions
+
+Source: City of Toronto Open Data Portal
+Main Dataset Link: https://open.toronto.ca/dataset/outbreaks-in-toronto-healthcare-institutions/
+
+Description:
+This dataset contains reported gastroenteric and respiratory outbreaks in Toronto healthcare institutions (hospitals, long-term care homes, and retirement residences). It includes outbreak type, causative agent(s), start and end dates, facility type, and active status.
+
+Date Accessed: October 30, 2025
+
+Specific File Used: ob_report_2025.csv

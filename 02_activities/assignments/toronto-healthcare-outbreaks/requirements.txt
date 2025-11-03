@@ -1,0 +1,21 @@
+# Data manipulation
+pandas>=2.1.0
+numpy>=1.25.0
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.12.2
+
+# Forecasting
+prophet>=1.2.2
+
+# Additional dependencies for reproducibility
+scipy>=1.11.0
+python-dateutil>=2.9.0
+pytz>=2025.10
+
+
+
+
+
+
